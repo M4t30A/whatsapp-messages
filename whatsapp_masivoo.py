@@ -30,8 +30,8 @@ from datetime import datetime, timedelta
 # ─────────────────────────────────────────────
 CONTACTOS = [
     {
-        "nombre": "Mateo Amaya",
-        "telefono": "+5493547573179",   # Código de país + número
+        "nombre": "juan nogales",
+        "telefono": "+549351849298",   # Código de país + número
         "producto": "Plan Premium",
         "vencimiento": "15/03/2026",
     },
