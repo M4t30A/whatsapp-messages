@@ -1,0 +1,15 @@
+Date: 10/3/2026
+Time: 10:30
+Phone Number: +5491123456789
+Message: Hola Juan Pérez 👋Te recordamos que tu *Plan Premium* vence el 15/03/2026.Para renovar o consultar, respondé este mensaje.¡Gracias por tu confianza! 🙌
+--------------------
+Date: 10/3/2026
+Time: 10:32
+Phone Number: +5491187654321
+Message: Hola María García 👋Te recordamos que tu *Plan Básico* vence el 20/03/2026.Para renovar o consultar, respondé este mensaje.¡Gracias por tu confianza! 🙌
+--------------------
+Date: 10/3/2026
+Time: 10:35
+Phone Number: +5493547573179
+Message: Hola Mateo Amaya 👋Te recordamos que tu *Plan Premium* vence el 15/03/2026.Para renovar o consultar, respondé este mensaje.¡Gracias por tu confianza! 🙌
+--------------------
